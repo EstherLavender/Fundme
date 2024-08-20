@@ -29,3 +29,7 @@ or
 
 >https://solidity-by-example.org/library/
 
+~**Sepolia Faucets**~
+
+>https://sepoliafaucet.com/
+
